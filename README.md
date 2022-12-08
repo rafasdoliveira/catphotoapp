@@ -1,5 +1,4 @@
-# catphotoapp
-# (New) Responsive Web Design
+# (New) Responsive Web Design - Cat Photo App
 ##
 <strong>LEARN HTML BY BUILDING A CAT PHOTO APP - By https://www.freecodecamp.org </strong>
 ## 
