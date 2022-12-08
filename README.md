@@ -1,5 +1,5 @@
 # (New) Responsive Web Design - Cat Photo App
-##
+
 <strong>LEARN HTML BY BUILDING A CAT PHOTO APP - By https://www.freecodecamp.org </strong>
 ## 
 HTML tags give a webpage its structure. You can use HTML tags to add photos, buttons, and other elements to your webpage.
